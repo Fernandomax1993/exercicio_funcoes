@@ -12,6 +12,7 @@ menu = {
 total = 0.0
 
      
+     
 while True:
     os.system("cls")
     print('=-='*30)
