@@ -1,1 +1,1 @@
-# exercicio_funcoes
+# Exercicios de python
