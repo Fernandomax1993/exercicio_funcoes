@@ -3,7 +3,7 @@ from time import sleep
 
 
 menu = {
-        '[1]-Arroz, Feijão , e bife':   - 35.99,
+        '[1]-Arroz, Feijão e bife':     - 35.99,
         '[2]-Macarrão com Carne moida': - 29.99,
         '[3]-lagosta a moda da casa':   - 120.00 , 
         '[4]-Churrasco':                -  65.99
