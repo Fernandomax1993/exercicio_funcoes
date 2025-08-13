@@ -1,7 +1,6 @@
  # Cardapio Interativo
 
-<img src="https://st2.depositphotos.com/1792782/7029/v/950/depositphotos_70296391-stock-illustration-food-menu-restaurant-template-design.jpg" width="100"/>
-<img src="https://st2.depositphotos.com/1792782/7029/v/950/depositphotos_70296391-stock-illustration-food-menu-restaurant-template-design.jpg" width="100"/>
+
 <img src="https://st2.depositphotos.com/1792782/7029/v/950/depositphotos_70296391-stock-illustration-food-menu-restaurant-template-design.jpg" width="100"/>
 
 
